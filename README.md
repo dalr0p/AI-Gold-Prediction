@@ -9,6 +9,8 @@ This project aims to predict the price of gold using machine learning techniques
 # Dataset
 The dataset used in this project was obtained from many sources to get the best results possible. It consists of historical gold prices, including the opening price, daily high and low, closing price, adjusted closing price, and trading volume. The data was collected over a period of 1 month for the collection and cleanning.
 
+(For the dataset please contact me on discord: @dalr0p )
+
 # Data Preprocessing
 Before training the machine learning model, the dataset underwent preprocessing to ensure it was suitable for training. This involved:
 
@@ -21,6 +23,10 @@ For this project, a Random Forest Regressor model was chosen for predicting gold
 
 # Model Training
 The Random Forest model was trained using the scikit-learn library in Python. The training data consisted of features such as opening price, daily high and low, and trading volume, while the target variable was the closing price of gold. The dataset was split into training and testing sets to evaluate the model's performance.
+
+What the model takes mostly in consideration to predict the prices: 
+
+![1](https://github.com/dalr0p/AI-Gold-Prediction/assets/137183562/3bb71701-3ca1-491a-9359-5476dca9f51a)
 
 # Evaluation
 The trained model was evaluated using various metrics, including Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²) score. These metrics provide insights into the model's accuracy and ability to generalize to new, unseen data. Additionally, visualizations such as scatter plots and time-series plots were used to analyze the model's predictions compared to actual gold prices.
