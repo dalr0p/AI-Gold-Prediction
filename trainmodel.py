@@ -6,7 +6,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 import joblib
 
 # Load the dataset
-df = pd.read_excel('C:\\Users\\marco\\Downloads\\AI\\Training\\final.xlsx')  # Update this to the path of your dataset
+df = pd.read_excel('YOUR_PATH')  # Update this to the path of your dataset
 
 # Preprocess the data
 # Define features and target variable
@@ -30,4 +30,4 @@ r2 = r2_score(y_test, y_pred)
 print(f'MSE: {mse}, MAE: {mae}, R²: {r2}')
 
 # Save the trained model
-joblib.dump(rf_model, 'random_forest_gold_price_predictor.joblib')
+joblib.dump(rf_model, 'model.joblib')
