@@ -1,6 +1,7 @@
 ## AI-Gold-Prediction
 
-![Default_Im_developing_an_AI_that_can_predict_gold_prices_I_wan_0](https://github.com/dalr0p/AI-Gold-Prediction/assets/137183562/8b072eb7-292c-4940-b1ae-7a5dbbb2d887)
+
+![Default_Im_developing_an_AI_that_can_predict_gold_prices_I_wan_0_2091d358-61d3-455d-b9ef-196df4da4fef_0](https://github.com/dalr0p/AI-Gold-Prediction/assets/137183562/8fba934e-b51a-4507-a18d-897a4df6a969)
 
 # Overview
 This project aims to predict the price of gold using machine learning techniques. Gold price prediction has significant implications for investors, traders, and financial analysts, as it can help in making informed decisions regarding investments and portfolio management.
