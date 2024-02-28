@@ -1,0 +1,5 @@
+The Random Forest Regressor model has been successfully trained and evaluated on the testing data, yielding the following performance metrics:
+
+Mean Squared Error (MSE): 0.0142
+Mean Absolute Error (MAE): 0.0716
+R-squared (R²): 0.8364
