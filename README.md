@@ -7,7 +7,7 @@
 This project aims to predict the price of gold using machine learning techniques. Gold price prediction has significant implications for investors, traders, and financial analysts, as it can help in making informed decisions regarding investments and portfolio management.
 
 # Dataset
-The dataset used in this project was obtained from many sources to get the best results possible. It consists of historical gold prices, including the opening price, daily high and low, closing price, adjusted closing price, and trading volume. The data was collected over a period of 1 month for the collection and cleanning. 2000 to 2024
+The dataset used in this project was obtained from many sources to get the best results possible (6K rows). It consists of historical gold prices, including the opening price, daily high and low, closing price, adjusted closing price, and trading volume. The data was collected over a period of 1 month for the collection and cleanning. 2000 to 2024
 
 (For the dataset please contact me on discord: @dalr0p )
 
