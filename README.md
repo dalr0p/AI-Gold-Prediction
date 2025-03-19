@@ -1,6 +1,4 @@
-## AI-Gold-Prediction
-
-
+## ML TEST
 ![Default_Im_developing_an_AI_that_can_predict_gold_prices_I_wan_0_2091d358-61d3-455d-b9ef-196df4da4fef_0](https://github.com/dalr0p/AI-Gold-Prediction/assets/137183562/8fba934e-b51a-4507-a18d-897a4df6a969)
 
 # Overview
@@ -8,11 +6,6 @@ This project aims to predict the price of gold using machine learning techniques
 
 # Dataset
 The dataset used in this project was obtained from many sources to get the best results possible (6K rows). It consists of historical gold prices, including the opening price, daily high and low, closing price, adjusted closing price, and trading volume. The data was collected over a period of 1 month for the collection and cleanning. 2000 to 2024
-
-(For the dataset please contact me on discord: @dalr0p )
-
-![image](https://github.com/dalr0p/AI-Gold-Prediction/assets/137183562/052adc36-10eb-4506-8d45-3e2d3bbc15dd)
-
 
 # Data Preprocessing
 Before training the machine learning model, the dataset underwent preprocessing to ensure it was suitable for training. This involved:
